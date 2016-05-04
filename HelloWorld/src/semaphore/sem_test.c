@@ -2,7 +2,7 @@
 #include<semaphore.h>
 #include<stdio.h>
 #include<stdlib.h>
-
+//semaphore test
 //define semaphore of threads
 sem_t sem1;
 sem_t sem2;
