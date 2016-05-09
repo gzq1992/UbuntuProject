@@ -13,7 +13,7 @@ int main()
 	int fd[2];
 	if(pipe(fd) < 0)
 	{
-		perror("pipe error");
+		perror("pipe errod");
 		exit(1);
 	}
 	
